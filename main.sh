@@ -1,5 +1,5 @@
 #!/bin/bash
-# ~~~ EaglercraftX Server
+# ~~~ ELECTRIC SERVER
 # ~~~ >> smashed together once again by ayunami2000
 # ~~~ >> modified by WinRAR
 
