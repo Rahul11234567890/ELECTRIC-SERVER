@@ -7,4 +7,4 @@ throttling:
 game_version: ''
 disable_tab_list_rewrite: true
 registered_plugin_channels_limit: 128
-disable_entity_metadata_rewrite: false
+disable_entity_metadata_rewrite: true

@@ -16,7 +16,7 @@
 #
 
 limits:
-    allow-extra-data-values: false
+    allow-extra-data-values: true
     max-blocks-changed:
         default: -1
         maximum: -1
@@ -32,17 +32,17 @@ limits:
     disallowed-blocks: [6, 7, 14, 15, 16, 26, 27, 28, 29, 39, 31, 32, 33, 34, 36, 37, 38, 39, 40, 46, 50, 51, 56, 59, 69, 73, 74, 75, 76, 77, 81, 83]
 
 use-inventory:
-    enable: false
+    enable: true
     allow-override: true
-    creative-mode-overrides: false
+    creative-mode-overrides: true
 
 logging:
-    log-commands: false
+    log-commands: true
     file: worldedit.log
 
 super-pickaxe:
     drop-items: true
-    many-drop-items: false
+    many-drop-items: true
 
 snapshots:
     directory:
@@ -59,7 +59,7 @@ saving:
     dir: schematics
 
 files:
-    allow-symbolic-links: false
+    allow-symbolic-links: true
 
 history:
     size: 15
@@ -67,7 +67,7 @@ history:
 
 wand-item: 271
 shell-save-type:
-no-double-slash: false
-no-op-permissions: false
-debug: false
+no-double-slash: true
+no-op-permissions: true
+debug: true
 show-help-on-first-use: true

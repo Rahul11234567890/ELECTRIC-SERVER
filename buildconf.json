@@ -17,7 +17,7 @@
 	"mavenLocal": "/tmp/teavm",
 	"generateOfflineDownload": true,
 	"offlineDownloadTemplate": "/home/runner/eaglercraftx/eaglercraftx/sources/setup/workspace_template/javascript/OfflineDownloadTemplate.txt",
-	"keepTemporaryFiles": false,
+	"keepTemporaryFiles": true,
 	"writeSourceMap": true,
 	"minifying": true
 }
