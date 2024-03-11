@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "9cff3ba8-d795-39b6-b8c1-ea6788565f39",
+    "name": "DiamondCrystal",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4d258a81-2358-3084-8166-05b9faccad80",
+    "name": "Dinnerbone",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
